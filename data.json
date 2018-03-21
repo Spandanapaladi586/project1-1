@@ -1,0 +1,34 @@
+{
+  "basics":{
+    "photo":"download1.jpg",
+    "name":"kavya",
+    "email":"kavya3445@gmail.com",
+    "mobile":"9856243560"
+  },
+  "education":[
+    {
+    "course":"b.tech(Computer science and engineering)",
+    "college":[
+      "G.pullaiah college of engineering",
+      "2016-2019",
+      "70"
+    ]
+  },
+  {
+    "course":"Diploma(cme)",
+    "college":[
+      "govt polytechnic for women",
+    "2013-2016",
+    "80"
+    ]
+  },
+  {
+    "course":"ssc",
+    "college":[
+      "jesus mary joseph english medium school",
+    "2012-2013",
+    "85"
+  ]
+  }
+  ]
+}
